@@ -2,6 +2,7 @@ name: Tierverhaltenstherapie
 favicon: null
 layout_spectrum: 0.8
 typography_spectrum: 0.5
+title: Tierverhaltenstherapie
 cta:
   domain: null
   bucket: null
@@ -15,7 +16,12 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
+  brandColors:
+    - "#f3e6e6"
+    - "#a5a0a3"
+    - "#6a666b"
+    - "#535155"
+    - "#3b393d"
   brandStrength: 0
   lightness: 0.5
   saturation: 0.5
