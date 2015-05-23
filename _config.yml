@@ -1,8 +1,8 @@
-name: Tierverhaltenstherapie
+name: Merle verreist
 favicon: null
 layout_spectrum: 0.8
 typography_spectrum: 0.5
-title: Tierverhaltenstherapie
+title: Merle verreist
 cta:
   domain: null
   bucket: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - "#f3e6e6"
-    - "#a5a0a3"
-    - "#6a666b"
-    - "#535155"
-    - "#3b393d"
+    - "#010201"
+    - "#bebcb8"
+    - "#918b7c"
+    - "#475b65"
+    - "#a31e3a"
   brandStrength: 0
   lightness: 0.5
   saturation: 0.5
