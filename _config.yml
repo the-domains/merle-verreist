@@ -1,7 +1,7 @@
 name: Merle verreist
 favicon: null
-layout_spectrum: 0.8
-typography_spectrum: 0.5
+layout_spectrum: 1
+typography_spectrum: 0
 title: Merle verreist
 cta:
   domain: null
@@ -17,12 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - "#010201"
-    - "#bebcb8"
-    - "#918b7c"
-    - "#475b65"
-    - "#a31e3a"
+    - '#010201'
+    - '#bebcb8'
+    - '#918b7c'
+    - '#475b65'
+    - '#a31e3a'
   brandStrength: 0
   lightness: 0.5
   saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
